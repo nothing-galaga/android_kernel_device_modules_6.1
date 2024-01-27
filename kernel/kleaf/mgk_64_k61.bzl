@@ -97,7 +97,6 @@ mgk_64_k61_kleaf_user_modules = [
 ]
 
 mgk_64_k61_module_outs = [
-    "fs/ntfs3/ntfs3.ko",
 ]
 
 mgk_64_k61_common_modules = mgk_module_outs + mgk_64_k61_module_outs
