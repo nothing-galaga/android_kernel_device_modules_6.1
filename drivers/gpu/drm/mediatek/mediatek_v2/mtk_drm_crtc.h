@@ -1159,6 +1159,8 @@ struct mtk_drm_crtc {
 
 	bool is_plane0_updated;
 
+	bool hbm_requested;
+
 	struct disp_ccorr_config_backup ccorr_config_backup;
 };
 
